@@ -1,0 +1,15 @@
+PcOrWireless比值无此时刻的数据！！！
+Tmall数据首次存取: platformTmall_14661544200  16209.0
+Taobao数据首次存取: platformTaobao_14661544200  16173.0
+PcOrWireless比值无此时刻的数据！！！
+Tmall数据首次存取: platformTmall_14661544260  5199.0
+Taobao数据首次存取: platformTaobao_14661544260  48084.81
+Tmall数据首次存取: platformTmall_14661544320  181.0
+Tmall数据首次存取: platformTmall_14661544200  9243.0
+Tmall数据再次存取: platformTmall_14661544200  86298.58
+Tmall数据首次存取: platformTmall_14661544320  63743.23
+Tmall数据首次存取: platformTmall_14661544200  111160.23999999999
+Taobao数据首次存取: platformTaobao_14661544200  27374.58
+Taobao数据首次存取: platformTaobao_14661544260  75354.65
+Taobao数据首次存取: platformTaobao_14661544200  68364.23000000001
+Taobao数据首次存取: platformTaobao_14661544260  611.0
